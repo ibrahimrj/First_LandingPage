@@ -75,3 +75,36 @@ a {
     font-size: 15px;
     border: none;
 }
+
+.subhead {
+    display: flex;
+    justify-content: center;
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+}
+
+.multimg {
+    width: 100%;
+    height: 300px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.multimg div img {
+    width: 250px;
+    height: 200px;
+    margin: 0px 25px;
+    border: 2px solid blue;
+    border-radius: 17px;
+}
+
+.infotext {
+    color: #515153;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+}
