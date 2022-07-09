@@ -108,3 +108,73 @@ a {
     display: flex;
     justify-content: center;
 }
+
+.thrid {
+    background-color: #E5E7EB;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: 400;
+    font-style: italic;
+    width: 900px;
+    margin-top: 200px;
+    margin-bottom: auto;
+    padding-left: 150px;
+    color: #1f2937;
+
+}
+
+.qf {
+    flex-basis: 200px;
+    padding-right: 300px;
+    height: 180px;
+    color: black;
+    font-weight: 700;
+
+}
+
+.fourth {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact {
+    background-color: #3882f6;
+    height: 150px;
+    width: 1100px;
+    margin: 70px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.Fb {
+    background-color: #3882f6;
+    font-weight: 600;
+    color: #f9faf8;
+    padding: 5px 20px;
+    border-radius: 7px;
+    font-size: 20px;
+    border: 2px solid #f9faf8;
+}
+
+.contacttext {
+    color: #f9faf8;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    background-color: #1f2937;
+    padding: 25px;
+    font-size: 20px;
+    color: #f9faf8;
+}
